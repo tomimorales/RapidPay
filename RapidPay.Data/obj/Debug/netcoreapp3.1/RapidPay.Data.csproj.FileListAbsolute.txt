@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\RapidPay.Data\bin\Debug\netcoreapp3.1\RapidPay.Data.deps.json
+C:\Users\Usuario\source\repos\RapidPay.Data\bin\Debug\netcoreapp3.1\RapidPay.Data.dll
+C:\Users\Usuario\source\repos\RapidPay.Data\bin\Debug\netcoreapp3.1\RapidPay.Data.pdb
+C:\Users\Usuario\source\repos\RapidPay.Data\obj\Debug\netcoreapp3.1\RapidPay.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\RapidPay.Data\obj\Debug\netcoreapp3.1\RapidPay.Data.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\RapidPay.Data\obj\Debug\netcoreapp3.1\RapidPay.Data.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\RapidPay.Data\obj\Debug\netcoreapp3.1\RapidPay.Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\RapidPay.Data\obj\Debug\netcoreapp3.1\RapidPay.Data.dll
+C:\Users\Usuario\source\repos\RapidPay.Data\obj\Debug\netcoreapp3.1\RapidPay.Data.pdb
+C:\Users\Usuario\source\repos\RapidPay.Data\bin\Debug\netcoreapp3.1\RapidPay.Data.runtimeconfig.json
+C:\Users\Usuario\source\repos\RapidPay.Data\bin\Debug\netcoreapp3.1\RapidPay.Data.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\RapidPay.Data\obj\Debug\netcoreapp3.1\RapidPay.Data.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\RapidPay.Data\obj\Debug\netcoreapp3.1\RapidPay.Data.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\RapidPay.Data\bin\Debug\netcoreapp3.1\RapidPay.Fees.dll
+C:\Users\Usuario\source\repos\RapidPay.Data\bin\Debug\netcoreapp3.1\RapidPay.Fees.pdb
+C:\Users\Usuario\source\repos\RapidPay.Data\obj\Debug\netcoreapp3.1\RapidPay.Data.csproj.CopyComplete

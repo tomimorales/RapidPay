@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\RapidPay.Fees\bin\Debug\netcoreapp3.1\RapidPay.Fees.deps.json
+C:\Users\Usuario\source\repos\RapidPay.Fees\bin\Debug\netcoreapp3.1\RapidPay.Fees.dll
+C:\Users\Usuario\source\repos\RapidPay.Fees\bin\Debug\netcoreapp3.1\RapidPay.Fees.pdb
+C:\Users\Usuario\source\repos\RapidPay.Fees\obj\Debug\netcoreapp3.1\RapidPay.Fees.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\RapidPay.Fees\obj\Debug\netcoreapp3.1\RapidPay.Fees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\RapidPay.Fees\obj\Debug\netcoreapp3.1\RapidPay.Fees.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\RapidPay.Fees\obj\Debug\netcoreapp3.1\RapidPay.Fees.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\RapidPay.Fees\obj\Debug\netcoreapp3.1\RapidPay.Fees.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\RapidPay.Fees\obj\Debug\netcoreapp3.1\RapidPay.Fees.dll
+C:\Users\Usuario\source\repos\RapidPay.Fees\obj\Debug\netcoreapp3.1\RapidPay.Fees.pdb
